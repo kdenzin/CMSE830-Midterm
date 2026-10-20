@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 import altair as alt
-from vega_datasets import data
+# from vega_datasets import data
 from altair.datasets import data
 
 
