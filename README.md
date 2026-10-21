@@ -1,9 +1,11 @@
 Project Name: 2025-2026 Teacher Preparation Program Placements
+
 Purpose: Explore the placements, schools, and demographic information for the 2025-2026 academic year. Where were TPP teacher candidates placed? What schools and students do they gain experience with?
 
 Set up/Run Instructions:
 
 Files
+- requirements.txt = start here, explains reproducibility
 - midterm.py = streamlit code and user facing visualizations
 - MidTermProjectKatieDenzin.ipynb = jupyter notebook for cleaning data and reproducing results.
 - placements.xlxs = compiled deidentified placement data from internal documents
