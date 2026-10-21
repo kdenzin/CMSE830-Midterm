@@ -1,0 +1,14 @@
+To run the completed version of this project, you need:
+
+midterm.py (and ability to run streamlit local/deploy an app)
+buildings.csv
+demographics.csv
+
+To simulate this project and recreate it, you need:
+
+MidtermProjectKatieDenzin.ipynb
+placements.xlxs
+studentcounts2526.slxs
+addresses.xlxs
+
+Please contact Katie Denzin at denzinka@msu.edu for permission to use data
