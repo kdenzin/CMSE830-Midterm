@@ -4,7 +4,7 @@ Purpose: Explore the placements, schools, and demographic information for the 20
 
 Final streamlit app (10/21/2026): https://cmse830-midterm-denzin.streamlit.app/
 
-Set up/Run Instructions:
+AI Disclosure: No AI was directly used in the creation or work of this project.
 
 Files
 - requirements.txt = start here, explains reproducibility
@@ -19,5 +19,22 @@ Files
 Instructions
 - To reproduce results, follow the instructions in the .ipynb and use the placements, addresses, and studentcounts2526 excel worksheets.
 - Can run streamlit locally by uncommenting the code chunks under the "Streamlit" section of the .ipynb.
+
+Requirements:
+
+To run the completed version of this project, you need:
+
+midterm.py (and ability to run streamlit local/deploy an app)
+buildings.csv
+demographics.csv
+
+To simulate this project and recreate it, you need:
+
+MidtermProjectKatieDenzin.ipynb
+placements.xlxs
+studentcounts2526.slxs
+addresses.xlxs
+
+Please contact Katie Denzin at denzinka@msu.edu for permission to use data
 
 For questions, please email Katie at denzinka@msu.edu
