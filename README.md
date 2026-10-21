@@ -2,6 +2,8 @@ Project Name: 2025-2026 Teacher Preparation Program Placements
 
 Purpose: Explore the placements, schools, and demographic information for the 2025-2026 academic year. Where were TPP teacher candidates placed? What schools and students do they gain experience with?
 
+Final streamlit app (10/21/2026): https://cmse830-midterm-denzin.streamlit.app/
+
 Set up/Run Instructions:
 
 Files
